@@ -54,7 +54,7 @@ def sanitize(val):
 # ----------------------
 _OWNER_PATTERNS = [
     "kahin", "kahinapi", "hexnox", "sowix", "sowixfree", "sowixapi",
-    "hexnox.pro", "api.kahin.org", "kahin.org", "webnorex", "HanedanSystem,
+    "hexnox.pro", "api.kahin.org", "kahin.org", "webnorex", "HanedanSystem",
 ]
 
 _OWNER_KEYS = [
